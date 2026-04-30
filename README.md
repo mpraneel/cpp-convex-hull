@@ -25,7 +25,8 @@ C++17, Eigen, SFML, CMake
 
 Starting August 2026, as part of a broader computational geometry and
 robotics systems portfolio. See also:
-[rrt-motion-planner](https://github.com/mpraneel/rrt-motion-planner)
+[rrt-motion-planner](https://github.com/mpraneel/rrt-motion-planner),
+[lidar-slam-2d](https://github.com/mpraneel/lidar-slam-2d)
 
 ## Background
 
